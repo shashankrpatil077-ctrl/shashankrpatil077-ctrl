@@ -50,6 +50,7 @@
 
 | Project | Description | Technologies |
 |---|---|---|
+| **[🧠 XOYO Omega](https://github.com/shashankrpatil077-ctrl/xoyo)** | An Autonomous AI Operating System — 35+ neural microservices orchestrated into a single, self-healing AI agent with multi-provider LLM routing, hierarchical memory, and computer vision. | `Python` `FastAPI` `Redis` |
 | **[🤖 Street_07](https://github.com/shashankrpatil077-ctrl/Street_07)** | An autonomous BTC trading agent built for the Surge x Kraken Hackathon. Features 13-indicator confluence and ERC-8004 on-chain trustless logging. | `Python` `Kraken CLI` `Web3/Base` |
 | **[💳 NeuralMarket](https://github.com/shashankrpatil077-ctrl/NeuralMarket)** | An intelligent protocol client that automatically handles HTTP 402 Payment flows using Circle USDC for programatic machine-to-machine payments. | `Python` `httpx` `Circle API` |
 
