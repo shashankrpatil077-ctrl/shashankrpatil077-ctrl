@@ -1,11 +1,11 @@
 <!-- Animated Gradient Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Shashank%20R.%20Patil&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20Architect%20%C2%B7%20Web3%20Engineer&descSize=18&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Shashank&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20Architect%20%C2%B7%20Web3%20Engineer&descSize=18&descColor=8b949e&descAlignY=55" />
 
 <div align="center">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+systems+that+think+for+themselves;+%7C+Web3+Infra+%7C+LLM+Orchestration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+systems+that+think+for+themselves;+%7C+Web3+Infra+%7C+LLM+Orchestration+%7C" alt="Typing SVG" />
 
 <br/>
 
