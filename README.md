@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+systems+that+think+for+themselves;Autonomous+Agent+%7C+Web3+Infra+%7C+LLM+Orchestration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+systems+that+think+for+themselves;+%7C+Web3+Infra+%7C+LLM+Orchestration" alt="Typing SVG" />
 
 <br/>
 
