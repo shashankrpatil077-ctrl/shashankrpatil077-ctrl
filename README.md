@@ -150,5 +150,20 @@ open_to: Full-time roles in AI/ML Engineering, Web3 Infra, or Agent Systems
 
 <br/>
 
+## ▸ 3D Contribution Calendar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+  <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</picture>
+
+</div>
+
+<br/>
+
 <!-- Animated Gradient Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:161b22,100:0d1117&height=120&section=footer" />
+
