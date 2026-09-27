@@ -1,11 +1,11 @@
 <!-- Animated Gradient Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Shashank&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20Architect%20%C2%B7%20Web3%20Engineer&descSize=18&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Shashank&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Robotics%20%26%20AI%20Engineer&descSize=18&descColor=8b949e&descAlignY=55" />
 
 <div align="center">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+systems+that+think+for+themselves;+%7C+Web3+Infra+%7C+LLM+Orchestration+%7C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+autonomous+robots+%26+intelligent+systems;ROS2+%7C+Edge+AI+%7C+Computer+Vision+%7C+LLM+Orchestration" alt="Typing SVG" />
 
 <br/>
 
@@ -22,14 +22,16 @@
 
 ```yaml
 name: Shashank R. Patil
-role: AI Agent Architect & Web3 Engineer
-location: India
+role: Robotics & AI Engineer
+location: Bengaluru, India
+education: B.Tech Robotics, Ramaiah University of Applied Sciences (CGPA 8.7)
 focus:
-  - Autonomous AI agents with multi-provider LLM orchestration
-  - On-chain agent identity (ERC-8004) and trustless execution
-  - Machine-to-machine payment infrastructure (HTTP 402 / Circle USDC)
-currently_building: XOYO Omega — a 27-service autonomous AI operating system
-open_to: Full-time roles in AI/ML Engineering, Web3 Infra, or Agent Systems
+  - Autonomous robot navigation (ROS 2, SLAM, Nav2, MoveIt 2)
+  - Edge AI & computer vision (PyTorch, TensorRT, YOLO, OpenCV)
+  - Multi-agent AI systems & LLM orchestration
+  - Sensor fusion (LiDAR, IMU, Depth) & embedded systems (NVIDIA Jetson)
+currently_building: XOYO Omega — a 50+ service autonomous AI operating system
+open_to: Internships in Robotics, AI/ML, Computer Vision, or Edge AI
 ```
 
 <br/>
@@ -41,7 +43,15 @@ open_to: Full-time roles in AI/ML Engineering, Web3 Infra, or Agent Systems
 **Languages & Frameworks**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,rust,go,java,js&theme=dark" />
+</a>
+
+<br/><br/>
+
+**Robotics & AI**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ros,pytorch,tensorflow,opencv,docker,linux&theme=dark" />
 </a>
 
 <br/><br/>
@@ -49,7 +59,7 @@ open_to: Full-time roles in AI/ML Engineering, Web3 Infra, or Agent Systems
 **Infrastructure & Tooling**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,redis,postgres,docker,linux,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,redis,postgres,kubernetes,bash,git&theme=dark" />
 </a>
 
 </div>
@@ -63,107 +73,45 @@ open_to: Full-time roles in AI/ML Engineering, Web3 Infra, or Agent Systems
     <td width="50%">
       <h3 align="center"><a href="https://github.com/shashankrpatil077-ctrl/xoyo">XOYO Omega</a></h3>
       <p align="center"><strong>Autonomous AI Operating System</strong></p>
-      <p align="center">27 core microservices (expandable to 45+ with GPU) — multi-provider LLM routing across 8 providers, hierarchical memory, constitutional safety guardrails, and self-healing watchdog daemon.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      </p>
+      <p align="center">50+ microservices with multi-provider LLM routing, hierarchical memory, computer vision (YOLO/Florence/DINO), voice pipeline, and self-healing watchdog.</p>
+      <p align="center"><code>Python</code> <code>FastAPI</code> <code>Redis</code> <code>WebSockets</code></p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/shashankrpatil077-ctrl/Street_07">Street_07</a></h3>
-      <p align="center"><strong>Autonomous BTC Trading Agent</strong></p>
-      <p align="center">13-indicator confluence strategy with Kraken CLI execution and ERC-8004 on-chain trade logging on Base Sepolia. Built for the Surge × Kraken Hackathon.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kraken-5741D9?style=flat-square&logo=kraken&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
-      </p>
+      <h3 align="center"><a href="https://github.com/shashankrpatil077-ctrl/samyojana-sovereign-kernel">Samyojana</a></h3>
+      <p align="center"><strong>Autonomous Banking AI — SBI Hackathon @ GFF 2026</strong></p>
+      <p align="center">Multi-agent system with Rust core engine, FHE crypto layer, ZEDD fraud firewall, AMD SEV-SNP enclave, and eBPF ingress filtering.</p>
+      <p align="center"><code>Rust</code> <code>Python</code> <code>eBPF</code> <code>Docker</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center"><a href="https://github.com/shashankrpatil077-ctrl/Street_07">Street_07</a></h3>
+      <p align="center"><strong>Autonomous BTC Trading Agent</strong></p>
+      <p align="center">13-indicator confluence engine with Kraken CLI execution, ERC-8004 on-chain trade logging, and Streamlit live dashboard.</p>
+      <p align="center"><code>Python</code> <code>Streamlit</code> <code>Kraken CLI</code></p>
+    </td>
+    <td width="50%">
       <h3 align="center"><a href="https://github.com/shashankrpatil077-ctrl/NeuralMarket">NeuralMarket</a></h3>
       <p align="center"><strong>HTTP 402 Payment Protocol Client</strong></p>
-      <p align="center">Automatically detects payment-required API responses and executes Circle USDC transfers — enabling seamless machine-to-machine micro-transactions.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/httpx-333333?style=flat-square" />
-        <img src="https://img.shields.io/badge/Circle-00D395?style=flat-square&logoColor=white" />
-      </p>
+      <p align="center">Async-first HTTP client for automated machine-to-machine micro-transactions via Circle USDC.</p>
+      <p align="center"><code>Python</code> <code>httpx</code> <code>Circle USDC</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/shashankrpatil077-ctrl/micromouse-advanced-firmware">Micromouse Firmware</a></h3>
+      <p align="center"><strong>Advanced Maze-Solving Robot Firmware</strong></p>
+      <p align="center">Clothoid curve path smoothing and diagonal movement algorithms for autonomous maze traversal.</p>
+      <p align="center"><code>C</code> <code>Embedded</code> <code>PID Control</code></p>
     </td>
     <td width="50%">
       <h3 align="center">More Coming Soon</h3>
-      <p align="center"><strong>Always building, always shipping.</strong></p>
-      <p align="center">Agent-to-agent communication protocols, DeFi strategy backtesting, and autonomous research systems — all in active development.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-30363d?style=flat-square" />
-      </p>
+      <p align="center">🤖</p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## ▸ Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashankrpatil077-ctrl&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
-<br/>
-
-## ▸ GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shashankrpatil077-ctrl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=shashankrpatil077-ctrl&theme=dark&background=0D1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=f0883e&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&hide_border=true" width="49%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankrpatil077-ctrl&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f0f6fc&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashankrpatil077-ctrl&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashankrpatil077-ctrl&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashankrpatil077-ctrl&theme=github_dark&utcOffset=5.5" width="32%" />
-
-</div>
-
-<br/>
-
-## ▸ Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankrpatil077-ctrl/shashankrpatil077-ctrl/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashankrpatil077-ctrl/shashankrpatil077-ctrl/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/shashankrpatil077-ctrl/shashankrpatil077-ctrl/output/github-snake.svg" width="100%">
-</picture>
-
-<br/>
-
-## ▸ 3D Contribution Calendar
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
-  <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</picture>
-
-</div>
-
-<br/>
-
-<!-- Animated Gradient Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:161b22,100:0d1117&height=120&section=footer" />
-
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" />
